@@ -271,6 +271,311 @@ div.bible-verse-no.ot {
   opacity: 1;
 }
 
+@media (min-width: 768px) and (max-width: 1024px) { 
+  .bible {
+      font-size: 15px;
+  }
+  .bible-hebrew {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 18px;
+  }
+  .bible-hebrew-inline,
+  .bible-aramaic-inline {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 15px;
+  }
+  .quran {
+      font-size: 20px !important;
+  }
+  .quran-inline {
+      font-size: 15px !important;
+  }
+  div.more-quran-wrapper {
+      margin: 10px 0 !important;
+      div.quran-wrapper {
+          margin: 0px !important;
+      }
+  }
+  div.quran-wrapper,
+  div.bible-wrapper {
+      box-sizing: border-box;
+      margin: 10px 0 !important;
+      background-color: $quran-bg-color;
+  }
+  div.verse-no,
+  div.bible-verse-no {
+      box-sizing: border-box;
+      // border-width: 1px;
+      width: 100%;
+      padding: 0 4px !important;
+      // clear:both;
+      // color: #ffffff;
+      // font-family: $font-post-meta; 
+      // font-size: 15px;
+      // text-align: center;
+      div.book {
+          float: left;
+          width: 20%;
+          text-align: left;
+      }
+      div.chapter-verse {
+          float: right;
+          width: 20%;
+          text-align: right;
+      }
+      div.chapter {
+          margin: 0 auto !important;
+          width: 55%;
+          display: inline-block;
+          text-align: center;
+      }
+  }
+}
+
+@media (min-width: 950px) and (max-width: 1024px) and (orientation: landscape) {
+  .bible {
+      font-size: 15px;
+  }
+  .bible-hebrew {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 18px;
+  }
+  .bible-hebrew-inline,
+  .bible-aramaic-inline {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 15px;
+  }
+  .quran {
+      font-size: 20px !important;
+  }
+  .quran-inline {
+      font-size: 15px !important;
+  }
+  div.more-quran-wrapper {
+      margin: 10px 0 !important;
+      div.quran-wrapper {
+          margin: 0px !important;
+      }
+  }
+  div.quran-wrapper,
+  div.bible-wrapper {
+      box-sizing: border-box;
+      margin: 10px 0 !important;
+      background-color: $quran-bg-color;
+  }
+  div.verse-no,
+  div.bible-verse-no {
+      box-sizing: border-box;
+      // border-width: 1px;
+      width: 100%;
+      padding: 0 4px !important;
+      // clear:both;
+      // color: #ffffff;
+      // font-family: $font-post-meta; 
+      // font-size: 15px;
+      // text-align: center;
+      div.book {
+          float: left;
+          width: 20%;
+          text-align: left;
+      }
+      div.chapter-verse {
+          float: right;
+          width: 20%;
+          text-align: right;
+      }
+      div.chapter {
+          margin: 0 auto !important;
+          width: 55%;
+          display: inline-block;
+          text-align: center;
+      }
+  }
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+  .bible {
+      font-size: 15px;
+  }
+  .bible-hebrew {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 18px;
+  }
+  .bible-hebrew-inline,
+  .bible-aramaic-inline {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 15px;
+  }
+  .quran {
+      font-size: 17px !important;
+  }
+  .quran-inline {
+      font-size: 15px !important;
+  }
+  div.more-quran-wrapper {
+      margin: 10px 0 !important;
+      div.quran-wrapper {
+          margin: 0px !important;
+      }
+  }
+  div.quran-wrapper,
+  div.bible-wrapper {
+      box-sizing: border-box;
+      margin: 10px 0 !important;
+      background-color: $quran-bg-color;
+  }
+  div.verse-no,
+  div.bible-verse-no {
+      box-sizing: border-box;
+      // border-width: 1px;
+      width: 100%;
+      padding: 0 4px !important;
+      // clear:both;
+      // color: #ffffff;
+      // font-family: $font-post-meta; 
+      // font-size: 15px;
+      // text-align: center;
+      div.book {
+          float: left;
+          width: 20%;
+          text-align: left;
+      }
+      div.chapter-verse {
+          float: right;
+          width: 20%;
+          text-align: right;
+      }
+      div.chapter {
+          margin: 0 auto !important;
+          width: 55%;
+          display: inline-block;
+          text-align: center;
+      }
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .bible {
+      font-size: 15px;
+  }
+  .bible-hebrew {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 18px;
+  }
+  .bible-hebrew-inline,
+  .bible-aramaic-inline {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 15px;
+  }
+  .quran {
+      font-size: 17px !important;
+  }
+  .quran-inline {
+      font-size: 15px !important;
+  }
+  div.more-quran-wrapper {
+      margin: 10px 0 !important;
+      div.quran-wrapper {
+          margin: 0px !important;
+      }
+  }
+  div.quran-wrapper,
+  div.bible-wrapper {
+      box-sizing: border-box;
+      margin: 10px 0 !important;
+      background-color: $quran-bg-color;
+  }
+  div.verse-no,
+  div.bible-verse-no {
+      box-sizing: border-box;
+      // border-width: 1px;
+      width: 100%;
+      padding: 0 4px !important;
+      // clear:both;
+      // color: #ffffff;
+      // font-family: $font-post-meta; 
+      // font-size: 15px;
+      // text-align: center;
+      div.book {
+          float: left;
+          width: 20%;
+          text-align: left;
+      }
+      div.chapter-verse {
+          float: right;
+          width: 20%;
+          text-align: right;
+      }
+      div.chapter {
+          margin: 0 auto !important;
+          width: 55%;
+          display: inline-block;
+          text-align: center;
+      }
+  }
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  .bible {
+      font-size: 15px;
+  }
+  .bible-hebrew {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 18px;
+  }
+  .bible-hebrew-inline,
+  .bible-aramaic-inline {
+      font-family: 'Frank Ruhl Libre', serif;
+      font-size: 15px;
+  }
+  .quran {
+      font-size: 20px !important;
+  }
+  .quran-inline {
+      font-size: 15px !important;
+  }
+  div.more-quran-wrapper {
+      margin: 10px 0 !important;
+      div.quran-wrapper {
+          margin: 0px !important;
+      }
+  }
+  div.quran-wrapper,
+  div.bible-wrapper {
+      box-sizing: border-box;
+      margin: 10px 0 !important;
+      background-color: $quran-bg-color;
+  }
+  div.verse-no,
+  div.bible-verse-no {
+      box-sizing: border-box;
+      // border-width: 1px;
+      width: 100%;
+      padding: 0 4px !important;
+      // clear:both;
+      // color: #ffffff;
+      // font-family: $font-post-meta; 
+      // font-size: 15px;
+      // text-align: center;
+      div.book {
+          float: left;
+          width: 20%;
+          text-align: left;
+      }
+      div.chapter-verse {
+          float: right;
+          width: 20%;
+          text-align: right;
+      }
+      div.chapter {
+          margin: 0 auto !important;
+          width: 55%;
+          display: inline-block;
+          text-align: center;
+      }
+  }
+}
+
 @import url('https://fonts.googleapis.com/css?family=Economica:400,400i');
 @import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre');
 @import url('https://fonts.googleapis.com/css?family=Noto+Serif');
