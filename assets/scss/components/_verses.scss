@@ -169,12 +169,12 @@ div.section-wrapper {
 div.quran-wrapper,
 div.bible-wrapper {
   box-sizing: border-box;
-  margin: 15px;
+  margin: 0;
   background-color: $quran-bg-color;
 }
 
 div.more-quran-wrapper {
-  margin: 15px;
+  margin: 0;
 
   div.quran-wrapper {
     margin: 0;
@@ -269,4 +269,34 @@ div.bible-verse-no.ot {
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Economica:400,400i');
+@import url('https://fonts.googleapis.com/css?family=Frank+Ruhl+Libre');
+@import url('https://fonts.googleapis.com/css?family=Noto+Serif');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,300i');
+@import url('https://fonts.googleapis.com/css?family=Fira+Sans+Condensed:400');
+@import url('https://fonts.googleapis.com/css?family=Saira+Condensed:200');
+@import url('https://fonts.googleapis.com/css?family=Amiri');
+@import url('https://fonts.googleapis.com/css?family=Berkshire+Swash');
+@import url('https://fonts.googleapis.com/css?family=Reem+Kufi');
+@import url('https://fonts.googleapis.com/css?family=Aubrey');
+@import url('https://fonts.googleapis.com/css?family=Amita|Galdeano|Offside');
+@import url('https://fonts.googleapis.com/css?family=Rochester');
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.css");
+@font-face {
+    font-family: KFGQPC;
+    src: url("../../../assets/font/UthmanTN1\ Ver10.otf");
+}
+
+@font-face {
+    font-family: Scheherazade;
+    font-weight: normal;
+    src: url("../../../assets/font/ScheherazadeNew-Regular.ttf");
+}
+
+@font-face {
+    font-family: Scheherazade;
+    font-weight: bold;
+    src: url("../../../assets/font/ScheherazadeNew-Bold.ttf");
 }

@@ -149,10 +149,16 @@
 #   url = "/islam/"
 
 [[christianity]]
-  name = "introduction"
+  name = "Introduction"
   weight = 20
   identifier = "christianity"
   url = "/christianity/"
+
+[[christianity]]
+  name = "Understanding Christianity"
+  weight = 20
+  identifier = "understanding-christianity"
+  url = "/christianity/understanding-christianity/index"
 
 # [[judaism]]
 #   name = "Judaism"
