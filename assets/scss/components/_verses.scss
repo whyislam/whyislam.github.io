@@ -169,7 +169,7 @@ div.section-wrapper {
 div.quran-wrapper,
 div.bible-wrapper {
   box-sizing: border-box;
-  margin: 0;
+  margin: 10px 0 15px 0;
   background-color: $quran-bg-color;
 }
 
@@ -299,7 +299,7 @@ div.bible-verse-no.ot {
   div.quran-wrapper,
   div.bible-wrapper {
       box-sizing: border-box;
-      margin: 10px 0 !important;
+      margin: 10px !important;
       background-color: $quran-bg-color;
   }
   div.verse-no,
