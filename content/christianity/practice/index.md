@@ -1,14 +1,14 @@
 ---
-title: "6. Deploy Your Site"
-description: "Deploy your Doks site to Netlify or any other static web host."
-lead: "Deploy your Doks site to Netlify or any other static web host."
+title: "Different Practices"
+description: "Different practices across Christian denominations"
+lead: "Different practices across Christian denominations"
 date: 2020-11-30T14:28:08+01:00
 lastmod: 2020-11-30T14:28:08+01:00
 draft: false
 images: []
 menu:
   christianity:
-    parent: "christianity"
+    parent: "understanding-christianity"
 weight: 080
 toc: true
 ---

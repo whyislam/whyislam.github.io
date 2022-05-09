@@ -150,15 +150,15 @@
 
 [[christianity]]
   name = "Introduction"
-  weight = 20
+  weight = 5
   identifier = "christianity"
   url = "/christianity/"
 
 [[christianity]]
   name = "Understanding Christianity"
-  weight = 20
+  weight = 10
   identifier = "understanding-christianity"
-  url = "/christianity/understanding-christianity/index"
+  url = "/christianity/the-bible/index"
 
 # [[judaism]]
 #   name = "Judaism"
