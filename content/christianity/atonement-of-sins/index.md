@@ -33,7 +33,7 @@ Blood sacrifice is required for the forgivenss of the sin as suggested by the fo
 Further, a good offering should be a sinless being. Accordingly, since all of us are sinners, only Jesus (peace be with him) can satisfy the requirements for a good offering since he is sinless. This is the core teaching of St. Paul who wrote most of the later books in te New Testament. For example, in his letter to Romans:
 <div class="bible-wrapper">
   <div class="bible-verse">
-    <div class="bible-hebrew">
+    <div class="bible">
     τὰ γὰρ ὀψώνια τῆς ἁμαρτίας θάνατος, τὸ δὲ χάρισμα τοῦ θεοῦ ζωὴ αἰώνιος ἐν χριστῶ ἰησοῦ τῶ κυρίῳ ἡμῶν.
     </div>
     <div class="translation">
