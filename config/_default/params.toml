@@ -77,7 +77,7 @@ editPage = true
   darkMode = true
   bootStrapJs = true
   highLight = true
-  multilingualMode = false # Not yet functional
+  multilingualMode = true # Not yet functional
   docsVersioning = false # Not yet functional
 
 [menu]

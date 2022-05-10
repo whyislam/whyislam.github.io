@@ -160,6 +160,12 @@
   identifier = "understanding-christianity"
   url = "/christianity/the-bible/index"
 
+[[christianity]]
+  name = "Crescent Project"
+  weight = 15
+  identifier = "crescent-project"
+  url = "/christianity/crescent-project/index"
+
 # [[judaism]]
 #   name = "Judaism"
 #   weight = 30
