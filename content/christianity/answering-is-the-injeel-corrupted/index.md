@@ -1,7 +1,7 @@
 ---
-title: "Answering Crescent Project"
-description: "Responding to Sir Fouad Marsi of Crescent Project"
-lead: "Responding to Sir Fouad Marsi of Crescent Project"
+title: "Answering: Is the Injeel Corrupted?"
+description: "Responding to Sir Fouad Marsi'sIs the Injeel Corrupted?"
+lead: "Responding to Sir Fouad Marsi's Is the Injeel Corrupted?"
 date: 2020-11-30T14:27:39+01:00
 lastmod: 2020-11-30T14:27:39+01:00
 draft: false
@@ -9,7 +9,7 @@ images: []
 menu:
   christianity:
     parent: "crescent-project"
-weight: 070
+weight: 100
 toc: true
 ---
 Sir Fouad Marsi have claimed that the Injeel we have today is not corrupt as opposed to what the Muslims often say. In this page, we will attempt to give a response to his claim.
@@ -370,6 +370,22 @@ The following list is arranged according to the events in the life of Jesus (pea
     <tbody>
       <tr>
         <td><b>Matthew 27:44</b> (NRSV) <b>The bandits</b> who were crucified with him also <b>taunted him</b> in the same way.</td>
+      </tr>
+      <tr>
+        <td><b>Mark 15:32</b> (NRSV) Let the Messiah, the King of Israel, come down from the cross now, so that we may see and believe." <b>Those</b> who were crucified with him also <b>taunted him</b>.</td>
+      </tr>
+      <tr>
+        <td><b>Luke 23:39-40</b> (NRSV) One of the criminals who were hanged there kept deriding him and saying, "Are you not the Messiah? Save yourself and us!" But the <b>other rebuked him</b>, saying, "Do you not fear God, since you are under the same sentence of condemnation?".</td>
+      </tr>
+    </tbody>
+    </table>
+    In Matthew and Mark, the two bandits taunted Jesus (peace be with him), whereas in Luke, only one of the bandits since the other defended Jesus (peace be with him).
+  </li>
+  <li><b>When did Mary Magdalene (with or without others) go to Jesus' tomb?</b>
+    <table class="table-striped">
+    <tbody>
+      <tr>
+        <td><b>Mark 16:2</b> (NRSV) <b>The bandits</b> who were crucified with him also <b>taunted him</b> in the same way.</td>
       </tr>
       <tr>
         <td><b>Mark 15:32</b> (NRSV) Let the Messiah, the King of Israel, come down from the cross now, so that we may see and believe." <b>Those</b> who were crucified with him also <b>taunted him</b>.</td>

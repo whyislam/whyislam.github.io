@@ -1,7 +1,7 @@
 ---
-title: "Is the Injeel Corrupted?"
-description: "A search for the truth about the New Testament by Fouad Marsi"
-lead: "A search for the truth about the New Testament by Sir Fouad Marsi"
+title: "Summary of Books"
+description: "Writings of Sir Fouad Marsi on Muslim's claims"
+lead: "Writings of Sir Fouad Marsi on Muslim's claims"
 date: 2020-11-30T14:27:39+01:00
 lastmod: 2020-11-30T14:27:39+01:00
 draft: false
@@ -9,8 +9,8 @@ images: []
 menu:
   christianity:
     parent: "crescent-project"
-weight: 060
-toc: false
+weight: 090
+toc: true
 ---
 This book by Sir Fouad Marsi aims to prove that the New Testament we have in the Christian Bible is the holy word of God, carefully transmitted with no corruptions or forgeries as what the Muslims often claim. In this page, we are going to present his claim and study it.
 
