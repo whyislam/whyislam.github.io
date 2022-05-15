@@ -298,7 +298,7 @@ The following list is arranged according to the events in the life of Jesus (pea
     </tbody>
     </table>
   </li>
-  <li><b>Was Jesus' testimony about himself valid?</b>
+  <li><b>Was Jesus' (peace be with him) testimony about himself valid?</b>
     <table class="table-striped">
     <tbody>
       <tr>
@@ -311,7 +311,7 @@ The following list is arranged according to the events in the life of Jesus (pea
     </table>
     The same Greek words appear for these two verses, with no textual variants in the manuscripts we possess. Though NRSV used valid vs true, the original Greek words are the same, translation was made different. See here the word for word for <a href="https://biblehub.com/text/john/5-31.htm">John 5:31</a> and <a href="https://biblehub.com/text/john/8-14.htm">John 8:14</a>. You will find that the Greek word used for "true" or "valid" is the same, which is <span class="bible-inline">ἀληθής</span>.
   </li>
-  <li><b>Did Jesus come to judge the world?</b>
+  <li><b>Did Jesus (peace be with him) come to judge the world?</b>
     <table class="table-striped">
     <tbody>
       <tr>
@@ -323,5 +323,62 @@ The following list is arranged according to the events in the life of Jesus (pea
     </tbody>
     </table>
     The same Greek words appear for these two verses. See the word for word translation for <a href="https://biblehub.com/text/john/9-39.htm">John 9:39</a> and <a href="https://biblehub.com/text/john/12-47.htm">John 12:47</a>.
+  </li>
+  <li><b>What day was Jesus (peace be with him) crucified?</b>
+  <table class="table-striped">
+    <tbody>
+      <tr>
+        <td><b>Mark 14:12</b> (NRSV) On the <b>first day of Unleavened Bread, when the Passover lamb is sacrifice</b>, his disciples said to him, "Where do you want us to go and make the preparaions for you to eat the Passover?"</td>
+      </tr>
+      <tr>
+        <td><b>Mark 14:17</b> (NRSV) When <b>it was evening</b>, he came with the twelve.</td>
+      </tr>
+      <tr>
+        <td><b>Mark 15:25</b> (NRSV) It was <b>nine o'clock in the morning</b> when they crucified him.</td>
+      </tr>
+    </tbody>
+    </table>
+    <table class="table-striped">
+    <tbody>
+      <tr>
+        <td><b>John 13:1</b> (NRSV) Now <b>before the festival of the Passover</b>, Jesus knew that his hour had come to depart from this world and go to the Father. Having loved his own who were in the world, he loved them to the end.</td>
+      </tr>
+      <tr>
+        <td><b>John 18:28</b> (NRSV) Then they took Jesus from Caiaphas to Pilate's headquarters. <b>It was early in the morning</b>. They themselves did not enter the headquarters, so as to avoid ritual defilement and <b>to be able to eat the Passover</b>.</td>
+      </tr>
+      <tr>
+        <td><b>John 19:14-15</b> (NRSV) Now it was <b>the day of Preparation for the Passover</b>; and it was about noon. He said to the Jews, "Here is your King!" They cried out, "Away with him! Away with him! Crucify him!" Pilate asked them, "Shall I crucify your King?" The cheif priests answered, "We have no king but the emperor".</td>
+      </tr>
+    </tbody>
+    </table>
+    In Mark, Jesus (peace be with him) was crucified on the second day of the Passover, whereas in John, it was on the first day of the Passover.
+  </li>
+  <li><b>What time of the day was Jesus (peace be with him) crucified?</b>
+    <table class="table-striped">
+    <tbody>
+      <tr>
+        <td><b>Mark 15:25</b> (NRSV) It was <b>nine o'clock in the morning</b> when they crucified him.</td>
+      </tr>
+      <tr>
+        <td><b>John 19:13-14</b> (NRSV) When Pilate heard these words, he brought Jesus outside and sat ont he judge's bench at a place called the Stone Pavement, or in Hebrew Gabbatha. Now it was the day of Preparation for the Passover; and <b>it was about noon</b>. He said to the Jews, "Here is your King!"</td>
+      </tr>
+    </tbody>
+    </table>
+  </li>
+  <li><b>Did both thieves mock Jesus (peace be with him) on the cross?</b>
+    <table class="table-striped">
+    <tbody>
+      <tr>
+        <td><b>Matthew 27:44</b> (NRSV) <b>The bandits</b> who were crucified with him also <b>taunted him</b> in the same way.</td>
+      </tr>
+      <tr>
+        <td><b>Mark 15:32</b> (NRSV) Let the Messiah, the King of Israel, come down from the cross now, so that we may see and believe." <b>Those</b> who were crucified with him also <b>taunted him</b>.</td>
+      </tr>
+      <tr>
+        <td><b>Luke 23:39-40</b> (NRSV) One of the criminals who were hanged there kept deriding him and saying, "Are you not the Messiah? Save yourself and us!" But the <b>other rebuked him</b>, saying, "Do you not fear God, since you are under the same sentence of condemnation?".</td>
+      </tr>
+    </tbody>
+    </table>
+    In Matthew and Mark, the two bandits taunted Jesus (peace be with him), whereas in Luke, only one of the bandits since the other defended Jesus (peace be with him).
   </li>
 </ul>
