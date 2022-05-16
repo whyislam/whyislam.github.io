@@ -30,7 +30,7 @@ The Christian Gospels we have nowadays were written by scribes who are actually 
 ## Scope of the Injeel
 As Sir Fouad Marsi mentioned, the Injeel refers to the Book revealed to Jesus (peace be with him). Therefore, the scope is only the Gospels of Jesus (peace be with him) and does not include the writings of Paul. Since the writings of Paul was not revealed to Jesus (peace be with him), rather Paul's writings were letters to different regions such as Romans, Corinthians, etc. Nonetheless, we respect those who have different opinions, where they refer to all of the New Testament as Injeel.
 
-## New Testament is God-breathed
+## The Bible is God-breathed
 The Bible in general as what the Christian claims is god-breathed. Hence, it cannot be considered corrupt as what the Muslims suggest. If a book is considered god-breathed, it means that the writings is inspired by God. So when the anonymous author of the Christian Gospel wrote the texts, they are indeed inspired by God. This is what Paul claimed in the following:
 <div class="bible-wrapper">
   <div class="bible-verse">

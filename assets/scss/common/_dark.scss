@@ -555,3 +555,20 @@ $navbar-dark-active-color:          $link-color-dark;
   background-color: $body-overlay-dark;
   border-color: $body-overlay-dark;
 }
+
+// verses
+[data-dark-mode] .bible-verse {
+  background-color: rgb(45,48,52);
+}
+
+[data-dark-mode] .bible-inline {
+  color: #dee2e6;
+}
+
+[data-dark-mode] .bible-verse-no.ot {
+  background-color: #501818 !important;
+}
+
+[data-dark-mode] .bible-verse-no {
+  background-color: #071e2e !important;
+}
