@@ -385,16 +385,68 @@ The following list is arranged according to the events in the life of Jesus (pea
     <table class="table-striped">
     <tbody>
       <tr>
-        <td><b>Mark 16:2</b> (NRSV) <b>The bandits</b> who were crucified with him also <b>taunted him</b> in the same way.</td>
+        <td><b>Mark 16:2</b> (NRSV) And very early on the first day of the week, when <b>the sun had risen</b>, they went to the tomb.</td>
       </tr>
       <tr>
-        <td><b>Mark 15:32</b> (NRSV) Let the Messiah, the King of Israel, come down from the cross now, so that we may see and believe." <b>Those</b> who were crucified with him also <b>taunted him</b>.</td>
-      </tr>
-      <tr>
-        <td><b>Luke 23:39-40</b> (NRSV) One of the criminals who were hanged there kept deriding him and saying, "Are you not the Messiah? Save yourself and us!" But the <b>other rebuked him</b>, saying, "Do you not fear God, since you are under the same sentence of condemnation?".</td>
+        <td><b>John 20:1</b> (NRSV) Early on the first day of the week, <b>while it was still dark</b>, Mary Magdalene came to the tomb and saw that the stone had been removed from the tomb.</td>
       </tr>
     </tbody>
     </table>
-    In Matthew and Mark, the two bandits taunted Jesus (peace be with him), whereas in Luke, only one of the bandits since the other defended Jesus (peace be with him).
+  </li>
+  <li><b>Was the rock rolled away when Mary Magdalene (and others) arrived?</b>
+    <table class="table-striped">
+    <tbody>
+      <tr>
+        <td><b>Matthew 28:1-2</b> (NRSV) After the sabbath, as the first day of the week was dawning, Mary Magdalene and the other Mary went to see the tomb. And suddenly there was a great earthquake; for an angel of the Lord, descending from heaven, came and <b>rolled back the stone</b> and sat on it.</td>
+      </tr>
+      <tr>
+        <td><b>Mark 16:3-4</b> (NRSV) <b>They had been saying to one another</b>, "Who will roll away the stone for us from the entrance to the tomb?" When they looked up, they saw that the stone, which was very large, <b>had already been rolled back</b>.</td>
+      </tr>
+      <tr>
+        <td><b>Luke 24:1-2</b> (NRSV) But on the first day of the week, at early dawn, they came to the tomb, taking the spices that they had prepared. They found the <b>stone rolled away from the tomb</b>,</td>
+      </tr>
+      <tr>
+        <td><b>John 20:1</b> (NRSV) Early on the first day of the week, while it was still dark, Mary Magdalene came to the tomb and saw that the <b>stone had been removed</b> from the tomb.</td>
+      </tr>
+    </tbody>
+    </table>
+  </li>
+  <li><b>Who was at the tomb when Mary Magdalene (and other) arrived?</b>
+    <table class="table-striped">
+    <tbody>
+      <tr>
+        <td><b>Matthew 28:2</b> (NRSV) And suddenly there was a great earthquake; for <b>an angel of the Lord</b>, descending from heaven, came and rolled back the stone and sat on it.</td>
+      </tr>
+      <tr>
+        <td><b>Mark 16:5</b> (NRSV) As they entered the tomb, <b>they saw a young man</b>, dressed in a white robe, sitting on the right side; and they were alarmed.</td>
+      </tr>
+      <tr>
+        <td><b>Luke 24:4</b> (NRSV) While they were perplexed about this, suddenly <b>two men</b> in dazzling clothes stood beside them.</td>
+      </tr>
+      <tr>
+        <td><b>John 20:11-12</b> (NRSV) But Mary stood weeping outside the tomb. As she wept, she bent over to look into the tomb; and <b>she saw two angels in white</b>, sitting where the body of jesus had been lying, one at the head and the other at the feet.</td>
+      </tr>
+    </tbody>
+    </table>
+  </li>
+  <li><b>What happened when Mary Magdalene (and others) left the tomb?</b>
+    <table class="table-striped">
+    <tbody>
+      <tr>
+        <td><b>Matthew 28:8</b> (NRSV) So they left the tomb quickly with fear and great joy, and <b>ran to tell his disciples</b>.</td>
+      </tr>
+      <tr>
+        <td><b>Mark 16:8</b> (NRSV) So they went out and fled from the tomb, for terror and amazement had seized them; and <b>they said nothing to anyone</b>, for they were afraid.</td>
+      </tr>
+      <tr>
+        <td><b>Luke 24:8-11</b> (NRSV) Then they remembered his words, and returning from the tomb, <b>they told all this to the eleven and to all the rest</b>.</td>
+      </tr>
+      <tr>
+        <td><b>John 20:2</b> (NRSV) <b>So she ran and went to Simon Peter and the other disciple, the one whom Jesus loved, and said to them</b>, "They have taken the Lord out of the tomb, and we do not know where they have laid him."</td>
+      </tr>
+    </tbody>
+    </table>
   </li>
 </ul>
+
+## Scribal changes
